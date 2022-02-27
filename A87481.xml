@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties letter from St. Germans to the convention in order to settle these kingdoms: that was refused to be open'd.</title>
+            <author>James II, King of England, 1633-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87481</idno>
+            <idno type="STC">Wing J199</idno>
+            <idno type="STC">ESTC R225332</idno>
+            <idno type="EEBO-CITATION">99896139</idno>
+            <idno type="PROQUEST">99896139</idno>
+            <idno type="VID">154006</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87481)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154006)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2393:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties letter from St. Germans to the convention in order to settle these kingdoms: that was refused to be open'd.</title>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Revolution of 1688 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters">
+            <pb n="1" facs="tcp:154006:1"/>
+            <head>His Majeſties LETTER FROM St. GERMANS TO THE CONVENTION, IN ORDER TO Settle theſe Kingdoms: That was Refuſed to be Open'd.</head>
+            <opener>
+               <salute>MY LORDS,</salute>
+            </opener>
+            <p>WE think Our Selves <hi>Obliged in Conſcience</hi> to do all We can to open Our Peoples Eyes, that they may ſee the True Intereſt of the Nation in this Important Conjuncture; and therefore do think fit to let you know, that finding We could no longer ſtay with Safety, nor act with Freedom in what concerned Our People, and that it was abſolutely neceſſary for Us to retire; We left the Reaſons of Our with-drawing under Our own Hand, to be Communicated to you, and Our Subjects in the following Termes.</p>
+            <floatingText type="letter">
+               <body>
+                  <head>HIS MAJESTIES REASONS For With-drawing Himſelf from ROCHE<g ref="char:EOLhyphen"/>STER. Writ with His own Hand, and Or<g ref="char:EOLhyphen"/>dered to be Published.</head>
+                  <p>THe World cannot wonder at my with drawing my Self now this Second time. I might have expected ſomewhat better Uſage after what I writ to the <hi>P.</hi> of <hi>Orange</hi> by my Lord <hi>Feverſham,</hi> and the Inſtructions I gave him; but inſtead of an Anſwer, ſuch as I might have hoped for, What was I not to ex<g ref="char:EOLhyphen"/>pect
+<pb n="2" facs="tcp:154006:2"/>
+after the Uſage I received by the making the ſaid Earl a <hi>Priſoner,</hi> againſt the Practice and Law of Nations; <hi>The ſending his own Guards at Eleven at Night to take Poſſeſſion of the Poſts at Whitehall,</hi> without advertizing me in the leaſt manner of it; <hi>The ſending to me at One a Clock, after Midnight, when I was in Bed, a kind of an Order by three Lords, to be gone out of mine own Palace, be<g ref="char:EOLhyphen"/>fore Twelve that ſame Morning?</hi> After all this, How could I hope to be ſafe, ſo long as I was in the Power of one, who had not only done this to me, and Invaded my Kingdoms without any juſt occaſion given him for it, but that did by his firſt Declaration lay the greateſt Aſperſion upon me that Malice could invent, in that Clauſe of it which concerns my <hi>Son.</hi> I appeal to all that know me, nay, even to himſelf, that in their Conſciences, neither he nor they can believe me <hi>in the leaſt capable of ſo unnatural a Villany,</hi> nor of ſo little common ſenſe, to be impoſed on in a thing of ſuch a nature as that. What had I then to expect from one who by all Arts hath taken ſuch pains to make me appear as black as Hell to my own People, as well as to all the World beſides? What effect that hath had at Home all mankind hath ſeen, by ſo <hi>general a defection</hi> in my Army, as well as in the Nation amongſt all ſorts of People.</p>
+                  <p>I was born <hi>Free,</hi> and deſire to continue ſo; and tho I have <hi>ventured my Life</hi> very frankly; on ſeveral Occaſions, for the Good and Honour of my Country, and am as free to do it again <hi>(and which I hope I ſhall yet do, as old as I am, to redeem it from the Slavery it is like to fall under)</hi> yet I think it not con<g ref="char:EOLhyphen"/>venient to expoſe my ſelf to be Secured, ſo as not to be at Liberty to Effect it; and for that reaſon do with-draw, but ſo as to be within call whenſoever the Nations Eyes ſhall be opened, ſo as to ſee how they have been abuſed and im<g ref="char:EOLhyphen"/>poſed upon by the <hi>ſpecious Pretences of Religion and Property.</hi> I hope it will pleaſe God to <hi>touch</hi> their Hearts, out of his infinite Mercy, and to make them ſenſible of the ill Condition they are in, and bring them to ſuch a temper, that a <hi>Legal Parliament</hi> may be called; and that amongſt other things which may be neceſſary to be done, they will agree to <hi>Liberty of Conſcience</hi> for all Proteſtant Diſſenters; and that thoſe of my own Perſwaſion may be ſo far conſidered, and have ſuch a ſhare of it, <hi>as they may live peaceably and quietly,</hi> as Engliſh<g ref="char:EOLhyphen"/>men and Chriſtians ought to do, and not to be obliged to <hi>Tranſplant</hi> themſelves, which would be very grievous, eſpecially to ſuch as love their own Coun<g ref="char:EOLhyphen"/>try; and I appeal to all, who are conſidering men, and have had experi<g ref="char:EOLhyphen"/>ence, whether any thing can make this Nation ſo great and flouriſhing as <hi>Liberty of Conſcience,</hi> Some of our Neighbours dread it.</p>
+                  <p>I could add much more to confirm all I have ſaid, but now is not the proper time.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Rocheſter,</hi>
+                        <date>
+                           <hi>Decemb.</hi> 22. 1688.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="3" facs="tcp:154006:2"/>
+            <p>BUt finding, <hi>That,</hi> not taken to be Ours, by ſome; and that the <hi>Prince of Orange</hi> and his <hi>Adherants</hi> did maliciouſly Suppreſs it, We thought fit ſometime after, to renew the ſame; and likewiſe to Write to ſuch of your number, as were of Our <hi>Privy Council,</hi> in the Terms following.</p>
+            <floatingText type="letter">
+               <body>
+                  <head>HIS MAJESTIES LETTER TO THE Lords and others of His Privy Council.</head>
+                  <opener>
+                     <signed>JAMES R.</signed>
+                  </opener>
+                  <p>MY LORDS, When We ſaw that it was no longer ſafe for Us to remain within Our Kingdom of <hi>England,</hi> and that thereupon We had taken Our Reſolutions to with<g ref="char:EOLhyphen"/>draw for ſome time; We left to be communicated to you and to all Our Subjects, the Reaſons of Our withdrawing: And were likewiſe reſolved at the ſame time to leave ſuch Orders behind Us to you of Our Privy Councel, as might beſt ſuit with the preſent ſtate of Affairs: But that being altogether unſafe for Us at that time; We now think fit to let you know, that tho' it has been Our conſtant Care ſince Our firſt Acceſſion to the Crown, to Govern Our People with that Juſtice and Moderation, as to give, if poſſible, no oc<g ref="char:EOLhyphen"/>caſion of Complaint; yet more particularly upon the late Invaſion, ſeeing how the De<g ref="char:EOLhyphen"/>ſign was laid; and fearing that Our People, who could not be deſtroy'd but by themſelves, might by little imaginary Grievances, be cheated into a certain Ruine: To prevent ſo great Miſchief, and to take away not only all juſt Cauſes, but even pretences of Diſcon<g ref="char:EOLhyphen"/>tent; We freely, and of Our Own Accord, redreſſed all thoſe things that were ſet forth as the Cauſes of that Invaſion: And that We might be informed by the Councel and Ad<g ref="char:EOLhyphen"/>vice of Our Subjects themſelves, which way We might give them a further and full ſatiſ<g ref="char:EOLhyphen"/>faction, We reſolved to meet them in a <hi>Free Parliament:</hi> And in order to it, We firſt laid the Foundation of ſuch a <hi>Free Parliament,</hi> in reſtoring the City of <hi>London</hi> and the reſt of the Corporations to their Antient Charters and Priviledges; and afterwards actual<g ref="char:EOLhyphen"/>ly appointed the Writs to be iſſued out for the Parliaments Meeting on the 15th. of <hi>Ja<g ref="char:EOLhyphen"/>nuary:</hi> But the Prince of <hi>Orange</hi> ſeeing all the ends of his <hi>Declaration</hi> anſwered, the People begining to be undeceived, and returning apace to their Antient Duty and Allegiance; and well fore-ſeeing, that if the Parliament ſhould meet at the time appointed, ſuch a Settlement in all probability would be made, both in Church and State, as would totally defeat his Ambitious and unjuſt Deſigns, reſolved by all means poſſible to prevent the mee<g ref="char:EOLhyphen"/>ting of the Parliament: And to do this the moſt effectual way, he thought fit to lay a re<g ref="char:EOLhyphen"/>ſtaint on Our Royal Perſon; for as it were abſurd to call that a <hi>Free Parliament,</hi> where there is any Force on either of the Houſes, ſo much leſs can that <hi>Parliament</hi> be ſaid to act Freely, where the Sovereign, by whoſe Authority they Meet and Sit, and from whoſe Royal Aſſent all their Acts receive their Life and Sanction, is under actual Confinement. The hurring of Us under a Guard from Our City of <hi>London,</hi> whoſe returning Loyalty We could no longer Truſt, and the other Indignities We ſuffered in the Perſon of the Earl of <hi>Feverſham,</hi> when ſent to him by Us; and in that Barbarous Confinement of Our Own Perſon, We ſhall not here repeat, becauſe they are We doubt not, by this time very well known; and may, We hope, if enough conſidered and reflected upon; together with his other Violations and Breaches of the Laws and Liberties of <hi>England,</hi> which by this Invaſion he pretended to reſtore, be ſufficient to open the eyes of all Our Subjects, and let them plainly ſee what every one of them may expect, and what Treatment they ſhall find from him, if at any time it may ſerve his purpoſe, from whoſe hands a Sove<g ref="char:EOLhyphen"/>reign Prince, an Uncle, and a Father could meet with no better Entertainment. Howe<g ref="char:EOLhyphen"/>ver the ſenſe of theſe Indignities, and the juſt apprehenſion of further Attempts againſt Our Perſon, by them who already endeavoured to murder Our Reputation by Infamous Calumnies (as if We had been capable of ſuppoſing a Prince of <hi>Wales</hi>) which was in<g ref="char:EOLhyphen"/>comparably more Injurous, than the Deſtroying of our Perſon It Self; together with a Serious Reflection on a Saying of Our Royal Father of Bleſſed Memory, when He was
+<pb n="4" facs="tcp:154006:3" rendition="simple:additions"/>
+in the like Circumſtances, <hi>That there is little diſtance between the Priſons and the Graves of Princes</hi> (which afterwards proved too true in His Caſe) could not but perſuade Us to make uſe of that, which the Law of Nature gives to the meaneſt of Our Subjects, of freeing Our Selves by all means poſſible, from that unjuſt Confinement and Reſtraint. And this We did not more for the Security of Our Own Perſon, than that thereby We might be in a better Capacity of tranſacting and providing for every thing that may con<g ref="char:EOLhyphen"/>tribute to the Peace and Settlement of Our Kingdoms: For as on the one hand, no change of Fortune ſhall make Us forget Our Selves, ſo far as to Condeſcend to any thing, unbe<g ref="char:EOLhyphen"/>coming that High and Royal Station, in which God Almighty by Right of Succeſſion has placed Us: So on the other hand, neither the Provocation or Ingratitude of Our Own Subjects, nor any other Conſideration whatſoever, ſhall ever prevail with Us to make the leaſt ſtep contrary to the True Intereſt of the <hi>Engliſh</hi> Nation; which we ever did, and ever muſt look upon as Our Own. OUR WILL and Pleaſure therefore is, That you of Our Privy Councel, take the moſt effectual Care to make theſe our Gracious Intentions known to the Lords Spiritual and Temporal in and about Our Cities of <hi>London</hi> and <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> to the Lord Mayor and Commons of Our City fo <hi>London,</hi> and to all Our Subjects in general; And to aſſure them, that We deſire nothing more, than to return and hold a <hi>Free Parliament,</hi> wherein We may have the beſt opportunity of undeceiving Our People, and ſhewing the Sincerity of thoſe Proteſtations We have often made of the preſerving the Liberties and Properties of Our Subjects and the <hi>Protestant Religion;</hi> more eſpecial<g ref="char:EOLhyphen"/>ly the Church of <hi>England</hi> as by Law Eſtabliſhed, with ſuch Indulgence for thoſe that Diſſent from Her, as We have always thought Our Selves in Juſtice and Care of the ge<g ref="char:EOLhyphen"/>neral Welfare of Our People, bound to procure for them. And in the mean time You of Our Privy Councel, (who can Judge better by being upon the place) are to ſend Us your Advice, what is fit to be done by Us towards Our Returning, and the Accompliſhing thoſe Good Ends. And We do require you in Our Name, and by Our Authority, to endeavour ſo to Suppreſs all Tumults and Diſorders, that the Nation in general, and every one of Our Subjects in particular, may not receive the leaſt prejudice from the preſent Diſtracti<g ref="char:EOLhyphen"/>ons that is poſſible. So not doubting of your Dutiful Obedience to theſe Our Royal Commands,</p>
+                  <closer>
+                     <salute>VVe bid you Heartily Farewel.</salute>
+                     <dateline>Given at St. <hi>Germans en Laye</hi> 
+                        <date>the 4/14 <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> 1688/9. And of Our Reign the Fourth Year.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>Directed thus to the Lords, and Others of Our Privy Councel of Our King<g ref="char:EOLhyphen"/>dom of <hi>England.</hi>
+                  </trailer>
+               </body>
+            </floatingText>
+            <p>ALl which, We ſent with a Servant of Our own to be delivered, as it was Directed; but as yet We have no Account of it.</p>
+            <p>We likewiſe Directed Copies to ſeveral of you, the <hi>Peers</hi> of Our Realm; believing that none Durſt take upon them to Intercept, or open, your Letters; but of theſe like<g ref="char:EOLhyphen"/>wiſe, We have no Account.</p>
+            <p>But We cannot wonder that all Arts are uſed to hinder you from knowing Our Senti<g ref="char:EOLhyphen"/>ments, ſince the <hi>Prince of Orange,</hi> rather choſe, <hi>againſt all Law,</hi> to Impriſon the <hi>Earl of Feverſham,</hi> and to drive Us away from Our Palace; than to receive Our Invitation of coming to Us, or Hearing what We had to propoſe to Him; well knowing, that what We had to offer, <hi>Would Content all Reaſonable Men; and was, what he Durſt not Truſt you with the Knowledge of.</hi>
+            </p>
+            <p>We think fit now to let you know, that whatever Crimes ſhall be Committed, or whoſe Poſterity ſoever ſhall come to <hi>Suffer for thoſe Crimes,</hi> We are reſolved to be <hi>In<g ref="char:EOLhyphen"/>nocent.</hi>
+            </p>
+            <p>And therefore do <hi>Declare</hi> to you, that We are <hi>Ready to Return,</hi> (when Safely We can) and to <hi>Redreſs</hi> all the Diſorders in Our Kingdoms in a <hi>Free Parliament,</hi> Called ac<g ref="char:EOLhyphen"/>cording to Law, and held without Conſtraint: More particularly, <hi>To Secure the Church of</hi> England, as by Law Eſtabliſhed; and by the Advice of that Parliament, give <hi>ſuch Indulgence to Diſſenters,</hi> as Our People may have no Reaſon to be Jealous of. We will likewiſe by the Advice of that Parliament, Heal all the Diviſions, <hi>Cover with Oblivion</hi> all the Faults, and <hi>Reſtore</hi> the Happineſs of Our People; which never can be Effectually done by any other Power; and which We expect you will ſeriouſly and ſpeedily Con<g ref="char:EOLhyphen"/>ſider: And ſo We bid you heartily Farewel. Given at St. <hi>Germans en Laye,</hi> the 3d. of <hi>February</hi> 1689. And of Our Raign the fourth.</p>
+            <p>
+               <hi>The Letter to the Commons was of the ſame Tenure.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
